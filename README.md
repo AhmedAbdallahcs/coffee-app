@@ -1,6 +1,6 @@
-# flutter_task3
+#coffee app
 
-A new Flutter project.
+A Flutter coffee app with onboarding, login, menu, and item details screens, plus a cart that adds items and shows the total price. The coupon field is UI only for now.
 
 ## Getting Started
 
